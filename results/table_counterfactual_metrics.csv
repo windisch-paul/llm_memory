@@ -1,0 +1,4 @@
+vendor,model,condition,accuracy,f1_macro,n_total,n_valid,n_invalid,n_error,pct_valid
+openai,gpt-5.2-2025-12-11,counterfactual,0.9919354838709677,0.9917200854700855,250,248,0,2,99.2
+gemini,gemini-3-flash-preview,counterfactual,0.9795081967213115,0.9788513876609981,250,244,3,3,97.6
+anthropic,claude-opus-4-5-20251101,counterfactual,0.9637096774193549,0.9623577030103718,250,248,0,2,99.2

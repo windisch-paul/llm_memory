@@ -1,0 +1,24 @@
+Counterfactual Abstract Section Modifications (N=250 trials)
+============================================================
+
+Section Modification Frequency
+----------------------------------------
+Section         Trials Modified   Percentage
+----------------------------------------
+Title                        13         5.2%
+Introduction                  0         0.0%
+Methods                       4         1.6%
+Results                     250       100.0%
+Conclusion                  250       100.0%
+----------------------------------------
+
+Number of Sections Modified per Trial
+----------------------------------------
+Sections Modified        Trials   Percentage
+----------------------------------------
+2                           233        93.2%
+3                            17         6.8%
+----------------------------------------
+
+Mean: 2.07 sections
+Median: 2.0 sections
